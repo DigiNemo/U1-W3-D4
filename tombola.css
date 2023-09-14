@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Montserrat:wght@400;700&display=swap');
+
+.container{
+    width: 1200px;
+    
+
+
+}
+
+.container h1{
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    
+
+}
+
+
+#tombola{
+    margin: 30px;
+    
+   
+}
+
+.cellNumber{
+    display: inline-block;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(120, 22, 22);
+    color: white;
+
+}
+
+.cellNumber h3{
+    font-size: 2em;
+    font-weight: bold;
+    
+    
+}
